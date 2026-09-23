@@ -1,6 +1,6 @@
--- drain 城市排水防涝泵站运行与汛期调度管理 -- schema (liu-018)
+-- drain 城市排水防涝泵站运行与汛期调度管理 -- schema (hai-004)
 -- 列名与基线实体契约（@TableName/@TableField）逐列对齐，改列必须同步实体。
--- 库：liu_018
+-- 库：hai_004
 
 CREATE TABLE IF NOT EXISTS t_drain_dispatch_bill (
   id bigint NOT NULL COMMENT '主键',
